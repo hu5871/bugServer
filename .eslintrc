@@ -1,0 +1,9 @@
+{
+  // "extends": "eslint-config-egg",
+  "rules": {
+  },
+  "parserOptions": {
+    "ecmaVersion": 10,
+    "sourceType": "module"
+  }
+}
